@@ -38,4 +38,4 @@ During the submission procedure explain in detail what you've done and report th
 
 ### Submission
 
-To complete the challenge, use [this form]() to submit the flags.
+To complete the challenge, use [this form](https://docs.google.com/forms/d/e/1FAIpQLSeohjF5-2d450RYC1DMtZlQh0R3Corc9LxPqFeoNW6nAh1uaw/viewform?usp=sf_link) to submit the flags.
